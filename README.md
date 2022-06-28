@@ -1,5 +1,7 @@
 # git-localconfig-repo
 
+in28minutes - Micro + Spring Cloud + Docker
+
 :key: Project dependent on this project
 * [limits-service](https://github.com/erich5168/edu.spring-cloud-docker/tree/main/03.microservices/sec6-v2-143) : Config Server Client
 * [spring-cloud-config-server](https://github.com/erich5168/edu.spring-cloud-docker/tree/main/03.microservices/sec6-v2-143) : Config Server
